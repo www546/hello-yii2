@@ -3,18 +3,18 @@
   "description": "Yii2 zqy234 terrytest",  
   "keywords": [  
     "yii2",  
-    "terrytest"  
+    "extension"
   ],  
   "homepage": "https://github.com/www546/hello-yii2",  
   "type": "yii2-extension",  
-  "license": "MIT",  
+  "license": "BSD 3-Clause",
   "support": {  
     "source": "https://github.com/www546/hello-yii2"  
   },  
   "authors": [  
     {  
-      "name": "terry water",  
-      "email": "zqy234@126.com"  
+      "name": "zhangbo",
+      "email": "test@126.com"
     }  
   ],  
   "minimum-stability": "stable",  
